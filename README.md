@@ -1,4 +1,4 @@
-# 🌐 Responsive Navigation Bar
+# 🧭 Responsive Navigation Bar
 A sleek and modern responsive navigation bar built using JavaScript, HTML, and CSS. This project aims to provide a user-friendly and adaptable navigation experience across various devices and screen sizes.
 
 ## ✨ Features
