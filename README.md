@@ -9,11 +9,11 @@ A sleek and modern responsive navigation bar built using JavaScript, HTML, and C
 - 🛠️ Technologies Used:
 HTML: Markup language for creating the structure of the navigation bar.
 CSS: Styling language for designing the appearance and layout.
-JavaScript: Programming language for adding interactive features and functionality.
+JavaScript: A programming language for adding interactive features and functionality.
 
 
 # 🚀 Getting Started
-## Prerequisites
+### Prerequisites
 A web browser to view the navigation bar.
 A code editor (like VSCode) for making customizations.
 
