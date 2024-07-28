@@ -6,10 +6,11 @@ A sleek and modern responsive navigation bar built using JavaScript, HTML, and C
 - 🎨 Customizable Design: Easily modify the style and layout to match your website's aesthetics.
 - 🔀 Smooth Transitions: Includes smooth and visually appealing transition effects.
 - 📁 Multi-Level Menus: Supports dropdown and multi-level menu structures.
-- 🛠️ Technologies Used:
-HTML: Markup language for creating the structure of the navigation bar.
-CSS: Styling language for designing the appearance and layout.
-JavaScript: A programming language for adding interactive features and functionality.
+
+## 🛠️ Technologies Used:
+- HTML: Markup language for creating the structure of the navigation bar.
+- CSS: Styling language for designing the appearance and layout.
+- JavaScript: A programming language for adding interactive features and functionality.
 
 
 # 🚀 Getting Started
